@@ -1,0 +1,14 @@
+D:\Projects\c#\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaApplication1.deps.json
+D:\Projects\c#\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaApplication1.dll
+D:\Projects\c#\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaApplication1.pdb
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.csproj.AssemblyReference.cache
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\resources
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.AssemblyInfoInputs.cache
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.AssemblyInfo.cs
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.csproj.CoreCompileInputs.cache
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\AvaloniaApplication1.dll
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\AvaloniaApplication1.pdb
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\refint\Avalonia\AvaloniaApplication1.dll
+D:\Projects\c#\AvaloniaApplication1\obj\Debug\net8.0\ref\AvaloniaApplication1.dll
